@@ -1,0 +1,15 @@
+[master 09a280e] add status.txt
+ 1 file changed, 17 insertions(+)
+ create mode 100644 task1/status.txt
+alexandersmbp2:NewsSite Kosmasea$ git log
+commit 09a280e63f66648ae6007f43afac32abaf4b84a2
+Author: ProleskovskayaNatalia <nataaxaaa@tut.by>
+Date:   Mon Feb 13 23:07:49 2017 +0300
+
+    add status.txt
+
+commit ea4c086a72fe2e90a7b2ad7cdef1f7d8e908c6c4
+Author: ProleskovskayaNatalia <nataaxaaa@tut.by>
+Date:   Mon Feb 13 22:59:34 2017 +0300
+
+    add gitignore
